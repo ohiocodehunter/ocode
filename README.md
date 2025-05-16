@@ -5,7 +5,7 @@
 
 ## Overview
 
-**OCODE** is a visually stunning frontend project created by **Karan**, also known as [ohiocodehunter](https://www.linkedin.com/in/ohiocodehunter). It leverages modern web design techniques, including **Spline animations** and **AOS (Animate On Scroll)**, to deliver an engaging user experience.
+**OCODE** is a  frontend project created by **Karan**, as [ohiocodehunter](https://www.linkedin.com/in/ohiocodehunter). It leverages modern web design techniques, including **Spline animations** and **AOS (Animate On Scroll)**, to deliver an engaging user experience.
 
 ---
 
@@ -24,11 +24,11 @@
 
 ---
 
-## About the Developer
+## About
 
-**Karan**, professionally known as [ohiocodehunter](https://github.com/ohiocodehunter), is a skilled frontend web developer with a passion for creating engaging and interactive user interfaces. This project showcases his expertise in modern web animation techniques and responsive design.
+**Karan**, known as [ohiocodehunter](https://github.com/ohiocodehunter), with a skilled frontend web developer with a passion for creating engaging and interactive user interfaces. This project showcases my expertise in modern web animation techniques and responsive design.
 
-Explore his portfolio at [karan-och.netlify.app](https://karan-och.netlify.app) or connect with him on [LinkedIn](https://www.linkedin.com/in/ohiocodehunter).
+Explore my portfolio at [karan-och.netlify.app](https://karan-och.netlify.app) or connect with me on [LinkedIn](https://www.linkedin.com/in/ohiocodehunter).
 
 ---
 
